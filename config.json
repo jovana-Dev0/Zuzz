@@ -1,0 +1,4 @@
+{
+    "monitor_dir": "C:\\Users\\Public\\Downloads",
+    "suspect_files": [".exe", ".bat", ".cmd", ".vbs"]
+}
